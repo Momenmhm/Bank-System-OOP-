@@ -477,6 +477,8 @@ class clsBankClient : public clsPerson {
         }
 };
 
+
+//  some additional function  *********
 void ReadClientInfo(clsBankClient& Client){
        
         cout << "\nEnter First Name: ";
