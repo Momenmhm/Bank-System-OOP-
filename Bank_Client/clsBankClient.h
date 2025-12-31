@@ -8,7 +8,7 @@
 #include "clsString.h"
 #include "clsInputValidate.h"
 
-const string FilePath = "/storage/emulated/0/Clients.txt" ; 
+const string FilePath = "Clients.txt" ; 
 
 class clsBankClient : public clsPerson {
     
