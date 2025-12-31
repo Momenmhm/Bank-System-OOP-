@@ -12,7 +12,7 @@
 
 using namespace std ; 
 
-const string FilePathU = "/storage/emulated/0/Users.txt" ; 
+const string FilePathU = "Users.txt" ; 
 
 class clsUser : public clsPerson {
     
