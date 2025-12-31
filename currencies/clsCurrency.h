@@ -7,7 +7,7 @@
 
 using namespace std ; 
 
-const string CurrencyFilePath = "/storage/emulated/0/Download/Currencies.txt" ; 
+const string CurrencyFilePath = "Currencies.txt" ; 
 
 class clsCurrency {
         
