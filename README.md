@@ -23,6 +23,8 @@ A console-based banking system built with C++ and OOP. It covers the main operat
 ---
 
 ##  Project Structure
+
+<pre>
 Bank-System-OOP/
 │
 ├── 📂 Bank_Client/                  # Client data and all client-related screens
@@ -74,7 +76,8 @@ Bank-System-OOP/
 │   ├── clsString.h
 │   └── clsUtil.h
 │
-├── main.cpp
+└── main.cpp
+</pre>
 
 ---
 
