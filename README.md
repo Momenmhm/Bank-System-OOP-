@@ -1,25 +1,25 @@
-## BANK SYSTEM
-This project is a Bank System Simulation built with Object-Oriented Programming (OOP) principles. It demonstrates how core programming concepts can be applied to solve real-world problems such as:
+# 🏦 Bank System
 
-Managing customer accounts.
-Handling deposits, withdrawals, and balance checks.
-## Features
-Create and manage multiple bank accounts.
+A console-based banking system built with C++ and OOP. It covers the main operations you'd expect in a real bank, from managing accounts to handling currencies.
 
-Deposit and withdraw money with validation.
+---
 
-Display account information and transaction history.
+## ✨ Features
 
-Use of OOP concepts (Classes, Encapsulation, Inheritance, Polymorphism).
+- Create and manage bank accounts
+- Deposit, withdraw, and check balances
+- View transaction history
+- Currency exchange and management
+- User login system with different access levels
+- Input validation throughout the program
 
-Clean, modular, and extendable design.
-## Technologies Used
-C++ (Core language).
-Object-Oriented Programming (OOP).
-Clean code
-## This project helped me strengthen my skills in:
+---
 
-Applying OOP principles in real-world simulations.
-Implementing Data Structures inside a practical project.
-Writing clean, modular, and reusable code.
-Problem-solving and debugging.
+## 📁 Project Structure
+Bank-System-OOP/
+├── Bank_Client/      # Account and client logic
+├── Users/            # User login and permissions
+├── currencies/       # Currency exchange features
+├── Main_Screens/     # Menu and screen navigation
+├── library/          # Shared utilities and helpers
+└── main.cpp          # Entry point
