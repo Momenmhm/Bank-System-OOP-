@@ -4,7 +4,7 @@ A console-based banking system built with C++ and OOP. It covers the main operat
 
 ---
 
-## ✨ Features
+##  Features
 
 - Create and manage bank accounts
 - Deposit, withdraw, and check balances
@@ -15,11 +15,4 @@ A console-based banking system built with C++ and OOP. It covers the main operat
 
 ---
 
-## 📁 Project Structure
-Bank-System-OOP/
-├── Bank_Client/      # Account and client logic
-├── Users/            # User login and permissions
-├── currencies/       # Currency exchange features
-├── Main_Screens/     # Menu and screen navigation
-├── library/          # Shared utilities and helpers
-└── main.cpp          # Entry point
+ 
