@@ -15,4 +15,19 @@ A console-based banking system built with C++ and OOP. It covers the main operat
 
 ---
 
+## Technologies Used
+- C++ (Core language).
+- Object-Oriented Programming (OOP).
+- Clean code.
+
+---
+
+## This project helped me strengthen my skills in:
+
+- Applying OOP principles in real-world simulations.
+- Implementing Data Structures inside a practical project.
+- Writing clean, modular, and reusable code.
+- Problem-solving and debugging.
+
+
  
